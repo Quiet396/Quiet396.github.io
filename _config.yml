@@ -23,7 +23,7 @@ email: fujita_koh@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   要はなんでも書くサイトです(答えになっていない)
 baseurl: "myfactory" # the subpath of your site, e.g. /blog
-url: "https://Quiet396.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://quiet396.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  Quiet396
 
